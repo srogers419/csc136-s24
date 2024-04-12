@@ -19,6 +19,8 @@ class linkedList
   void print() const;
 
   //add some comments
+
+  //more comments version 2
   
  private:
   node *head;
